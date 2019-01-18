@@ -1,7 +1,8 @@
 <?php
 
+<<<<<<< HEAD
 echo "<strong>Mundão velho sem porteira</strong>";
-echo "<strong>Pisa nof reio zé</strong>";
 
+echo "<strong>Nós trupica mas num cai</strong>";
 
 ?>
